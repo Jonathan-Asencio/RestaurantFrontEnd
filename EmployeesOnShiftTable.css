@@ -1,0 +1,16 @@
+.EmployeesOnShiftTable{
+    margin: 20px;
+    width: 100%;
+}
+
+.EmployeesOnShiftTableT{
+    border-style: solid;
+}
+
+.ListItemButton{
+    border-bottom: solid;
+}
+
+.List{
+    border-top: solid;
+}

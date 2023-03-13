@@ -1,0 +1,30 @@
+.food-orders{
+    border-style: solid;
+    margin: 5px;
+    padding: 0px;
+}
+
+.ordersTable{
+    margin: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+}
+
+.List{
+    border-top: solid;
+}
+
+.ListItem{
+    border-bottom: solid 1px;
+}
+
+ol li{
+    list-style-type: none;
+    border-bottom: 2px solid;
+}
+
+.header{
+    margin-left: 5px;
+}

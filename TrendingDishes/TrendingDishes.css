@@ -1,0 +1,13 @@
+.TrendingDishes{
+    margin: 20px;
+    justify-content: center;
+    text-align: center;
+}
+
+.dishes{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
